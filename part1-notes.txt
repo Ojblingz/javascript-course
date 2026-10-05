@@ -1,0 +1,2 @@
+"5" + 3 gives "53" because the + sign joins the string "5" and the number 3 together as text. 
+"5" - 3 gives 2 because the - sign performs subraction, so JavaScript converts the string "5" into a number
