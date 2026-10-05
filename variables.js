@@ -1,3 +1,5 @@
+"use strict";
+
 const name = "Blessing";
 let age = 27;
 const favoriteHobby = "Traveling";

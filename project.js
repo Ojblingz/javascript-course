@@ -1,3 +1,5 @@
+"use strict";
+
 // Multiplication Table
 
 const number = 6;

@@ -1,3 +1,5 @@
+"use strict";
+
 // 1: Grade calculator
 
 const score = 85;

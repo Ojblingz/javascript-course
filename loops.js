@@ -1,3 +1,5 @@
+"use strict";
+
 // 1: Print numbers 1-10
 
 for (let i = 1; i <= 10; i++) {

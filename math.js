@@ -1,3 +1,5 @@
+"use strict";
+
 // 1: Basic Math Operations
 
 const a = 30;
